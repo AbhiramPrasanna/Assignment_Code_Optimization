@@ -31,11 +31,7 @@ pip install numpy pandas sgp4 pyproj dask distributed
    - Adjust the `start_date` and `end_date` variables in the script to define the time range for position calculations.
 
 2. **Running the Script**:
-   Execute the script using the following command:
-
-   ```bash
-   python satellite_position_calculation.py
-   ```
+   Execute the script using jupyter notebook
 
    The script will perform the following steps:
    - Load TLE data.
