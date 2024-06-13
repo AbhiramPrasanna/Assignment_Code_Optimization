@@ -1,4 +1,3 @@
-Sure, here's the README in markdown format without the one-pager explanation:
 
 ---
 
