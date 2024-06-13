@@ -44,8 +44,7 @@ pip install numpy pandas sgp4 pyproj dask distributed
    - perform certain code optimizations
    - Filter positions based on user-defined geographic boundaries.
    - Save the results to a CSV file (`satellite_positions.csv`)
-   - 
-
+     
 ## Optimization Details
 
 ### Distributed Computing with Dask
